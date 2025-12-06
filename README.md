@@ -2,7 +2,7 @@
 
 This toolkit tests whether LLMs can accurately simulate culturally-specific moral reasoning by comparing LLM responses to human baseline data collected from participants in the United States, Mexico, and India.
 
-## Quick Start (Claude Code)
+## Quick Start
 
 ### 1. Setup
 
